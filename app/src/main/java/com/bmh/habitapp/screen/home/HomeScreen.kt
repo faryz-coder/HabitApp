@@ -305,7 +305,7 @@ fun HomeScreen(
                         horizontalArrangement = Arrangement.SpaceBetween
                     ) {
                         Text(
-                            text = "Indomitable", fontWeight = FontWeight.Bold,
+                            text = "HabitIQ", fontWeight = FontWeight.Bold,
                             fontSize = 16.sp
                         )
                         Button(onClick = {
