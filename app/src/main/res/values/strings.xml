@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HabitIQ</string>
+    <string name="web_client_id">450097890848-c0fb8gopd0324n7cjfo68dh67oot7hf8.apps.googleusercontent.com</string>
+
+    <string name="remember">remember</string>
+    <string name="daily_quote">quote</string>
+
+    <string name="first_time">first_time</string>
+
+    <string name="email">email</string>
+    <string name="biometric">biometric</string>
+
+</resources>

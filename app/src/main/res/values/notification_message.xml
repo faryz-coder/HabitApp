@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reminders">
+        <item>Hello there! Time for a positive change.</item>
+        <item>Hey! Ready to kick those bad habits to the curb?</item>
+        <item>Hi friend! Let\'s conquer those habits together!</item>
+        <item>Greetings! Break free from those habits holding you back.</item>
+        <item>Hey, it\'s a new day! Time to ditch those old habits.</item>
+        <item>Hello! Let\'s work on overcoming those not-so-great habits.</item>
+        <item>Hiya! Challenge yourself to break free from bad habits.</item>
+        <item>Hey you! It\'s a great day to overcome those habits.</item>
+        <item>Greetings! Break the cycle of bad habits starting now.</item>
+        <item>Hello friend! Today marks the beginning of a habit-free journey.</item>
+    </string-array>
+
+    <string-array name="daily_quote">
+         <item>Every small step you take today is a giant leap toward a healthier, happier you. Keep pushing forward!</item>
+         <item>Success is the sum of small efforts repeated day in and day out. Make today count!</item>
+         <item>Your journey is unique, and every step is a triumph. Embrace the process, and celebrate your progress!</item>
+         <item>Track your progress, celebrate your victories, and remember: Every step adds up to a transformation</item>
+         <item>Success is not the key to happiness. Happiness is the key to success. Stay positive, stay tracking!</item>
+         <item>You have the power to rewrite your story. What small change can you make today to shape a better tomorrow?</item>
+         <item>Consistency is the key to progress. Keep tracking, keep growing!</item>
+         <item>Small daily improvements are the key to staggering long-term results. What positive change will you make today?</item>
+         <item>Celebrate the small wins on your journey. Progress, not perfection, is the goal!</item>
+         <item>Your habits define your future. Today\'s choices lead to tomorrow\'s triumphs. Keep tracking and stay committed!</item>
+    </string-array>
+</resources>

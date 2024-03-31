@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="score_overview">
+        <item>F,Very Bad,0</item>
+        <item>E,Bad,1</item>
+        <item>D,Below Average,3</item>
+        <item>C,Average,7</item>
+        <item>B,Above Average,15</item>
+        <item>A-,Good,30</item>
+        <item>A,Very Good,60</item>
+        <item>A+,Master,120</item>
+        <item>S,Legend,365</item>
+    </array>
+</resources>
